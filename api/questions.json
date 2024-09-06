@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What is the primary function of a graphics processing unit (GPU)?",
+        "options": [
+            {"id": 1, "text": "To store data"},
+            {"id": 2, "text": "To execute code"},
+            {"id": 3, "text": "To handle and improve graphics rendering"},
+            {"id": 4, "text": "To provide power to the computer"}
+        ],
+        "answer_id": 3
+    },
+    {
+        "question": "Which of these is a non-volatile storage device?",
+        "options": [
+            {"id": 1, "text": "RAM"},
+            {"id": 2, "text": "SSD"},
+            {"id": 3, "text": "Cache"},
+            {"id": 4, "text": "Register"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "What does RAM stand for?",
+        "options": [
+            {"id": 1, "text": "Random Access Memory"},
+            {"id": 2, "text": "Readily Available Memory"},
+            {"id": 3, "text": "Read Access Memory"},
+            {"id": 4, "text": "Random Allocation Memory"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "Which component is known as the 'brain' of the computer?",
+        "options": [
+            {"id": 1, "text": "Motherboard"},
+            {"id": 2, "text": "Central Processing Unit"},
+            {"id": 3, "text": "Hard Disk Drive"},
+            {"id": 4, "text": "Graphics Card"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "What is the purpose of an operating system?",
+        "options": [
+            {"id": 1, "text": "To manage computer hardware and software resources"},
+            {"id": 2, "text": "To perform calculations"},
+            {"id": 3, "text": "To run web browsers"},
+            {"id": 4, "text": "To create documents"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "Which of these is a type of volatile memory?",
+        "options": [
+            {"id": 1, "text": "ROM"},
+            {"id": 2, "text": "Flash Memory"},
+            {"id": 3, "text": "SSD"},
+            {"id": 4, "text": "RAM"}
+        ],
+        "answer_id": 4
+    },
+    {
+        "question": "Which device is used to convert digital signals into analog signals?",
+        "options": [
+            {"id": 1, "text": "Router"},
+            {"id": 2, "text": "Modem"},
+            {"id": 3, "text": "Switch"},
+            {"id": 4, "text": "Hub"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "What does SSD stand for?",
+        "options": [
+            {"id": 1, "text": "Solid State Drive"},
+            {"id": 2, "text": "Solid Storage Device"},
+            {"id": 3, "text": "Super Speed Drive"},
+            {"id": 4, "text": "Serial Storage Disk"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "Which of these devices is essential for input?",
+        "options": [
+            {"id": 1, "text": "Keyboard"},
+            {"id": 2, "text": "Monitor"},
+            {"id": 3, "text": "Speaker"},
+            {"id": 4, "text": "Printer"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "Which protocol is used for secure communication over a computer network?",
+        "options": [
+            {"id": 1, "text": "HTTP"},
+            {"id": 2, "text": "FTP"},
+            {"id": 3, "text": "HTTPS"},
+            {"id": 4, "text": "SMTP"}
+        ],
+        "answer_id": 3
+    },
+    {
+        "question": "Which storage device uses magnetic disks to store data?",
+        "options": [
+            {"id": 1, "text": "SSD"},
+            {"id": 2, "text": "RAM"},
+            {"id": 3, "text": "Hard Disk Drive"},
+            {"id": 4, "text": "Flash Drive"}
+        ],
+        "answer_id": 3
+    },
+    {
+        "question": "Which of the following is considered an output device?",
+        "options": [
+            {"id": 1, "text": "Mouse"},
+            {"id": 2, "text": "Monitor"},
+            {"id": 3, "text": "Keyboard"},
+            {"id": 4, "text": "Microphone"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "What is the main function of a power supply unit (PSU) in a computer?",
+        "options": [
+            {"id": 1, "text": "To provide cooling"},
+            {"id": 2, "text": "To supply power to all components"},
+            {"id": 3, "text": "To process data"},
+            {"id": 4, "text": "To store information"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "What does DNS stand for in networking?",
+        "options": [
+            {"id": 1, "text": "Data Network System"},
+            {"id": 2, "text": "Domain Name System"},
+            {"id": 3, "text": "Digital Node Server"},
+            {"id": 4, "text": "Direct Network Service"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "Which technology is used for wireless local area networks (WLAN)?",
+        "options": [
+            {"id": 1, "text": "Ethernet"},
+            {"id": 2, "text": "Bluetooth"},
+            {"id": 3, "text": "Wi-Fi"},
+            {"id": 4, "text": "Infrared"}
+        ],
+        "answer_id": 3
+    },
+    {
+        "question": "Which is the smallest unit of data in a computer?",
+        "options": [
+            {"id": 1, "text": "Byte"},
+            {"id": 2, "text": "Bit"},
+            {"id": 3, "text": "Kilobyte"},
+            {"id": 4, "text": "Megabyte"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "options": [
+            {"id": 1, "text": "HyperText Transfer Protocol"},
+            {"id": 2, "text": "Hyper Transfer Text Protocol"},
+            {"id": 3, "text": "Hyperlink Text Transfer Protocol"},
+            {"id": 4, "text": "High Transfer Text Protocol"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "Which of these is a commonly used computer programming language?",
+        "options": [
+            {"id": 1, "text": "Python"},
+            {"id": 2, "text": "JavaScript"},
+            {"id": 3, "text": "C++"},
+            {"id": 4, "text": "All of the above"}
+        ],
+        "answer_id": 4
+    },
+    {
+        "question": "Which device connects multiple computers in a network?",
+        "options": [
+            {"id": 1, "text": "Switch"},
+            {"id": 2, "text": "Modem"},
+            {"id": 3, "text": "Router"},
+            {"id": 4, "text": "Hub"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "What is the purpose of a firewall in computer networks?",
+        "options": [
+            {"id": 1, "text": "To provide power"},
+            {"id": 2, "text": "To secure the network"},
+            {"id": 3, "text": "To boost network speed"},
+            {"id": 4, "text": "To store data"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "Which language is primarily used for web development?",
+        "options": [
+            {"id": 1, "text": "Python"},
+            {"id": 2, "text": "C++"},
+            {"id": 3, "text": "JavaScript"},
+            {"id": 4, "text": "SQL"}
+        ],
+        "answer_id": 3
+    },
+    {
+        "question": "What does BIOS stand for in computer systems?",
+        "options": [
+            {"id": 1, "text": "Basic Input Output System"},
+            {"id": 2, "text": "Binary Input Output System"},
+            {"id": 3, "text": "Basic Internal Output System"},
+            {"id": 4, "text": "Basic Input Operation System"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "Which device is used for storing large amounts of data permanently?",
+        "options": [
+            {"id": 1, "text": "RAM"},
+            {"id": 2, "text": "ROM"},
+            {"id": 3, "text": "Hard Disk Drive"},
+            {"id": 4, "text": "Cache"}
+        ],
+        "answer_id": 3
+    },
+    {
+        "question": "What does LAN stand for?",
+        "options": [
+            {"id": 1, "text": "Local Area Network"},
+            {"id": 2, "text": "Long Area Network"},
+            {"id": 3, "text": "Large Access Network"},
+            {"id": 4, "text": "Local Access Network"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "What type of memory is used to store the BIOS settings?",
+        "options": [
+            {"id": 1, "text": "Flash Memory"},
+            {"id": 2, "text": "ROM"},
+            {"id": 3, "text": "RAM"},
+            {"id": 4, "text": "Cache"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "Which device protects computer hardware from power surges?",
+        "options": [
+            {"id": 1, "text": "UPS"},
+            {"id": 2, "text": "Modem"},
+            {"id": 3, "text": "Firewall"},
+            {"id": 4, "text": "Router"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "What does SQL stand for in database management?",
+        "options": [
+            {"id": 1, "text": "Structured Query Language"},
+            {"id": 2, "text": "Sequential Query Language"},
+            {"id": 3, "text": "Simple Query Language"},
+            {"id": 4, "text": "Server Query Language"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "Which of these is a high-level programming language?",
+        "options": [
+            {"id": 1, "text": "Assembly"},
+            {"id": 2, "text": "Java"},
+            {"id": 3, "text": "Machine Code"},
+            {"id": 4, "text": "Binary Code"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "Which software is used to browse the internet?",
+        "options": [
+            {"id": 1, "text": "Browser"},
+            {"id": 2, "text": "Operating System"},
+            {"id": 3, "text": "Compiler"},
+            {"id": 4, "text": "Text Editor"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "Which of the following is a server-side programming language?",
+        "options": [
+            {"id": 1, "text": "JavaScript"},
+            {"id": 2, "text": "Python"},
+            {"id": 3, "text": "HTML"},
+            {"id": 4, "text": "CSS"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "What does IP stand for in IP address?",
+        "options": [
+            {"id": 1, "text": "Internet Protocol"},
+            {"id": 2, "text": "Internet Provider"},
+            {"id": 3, "text": "Internal Protocol"},
+            {"id": 4, "text": "International Protocol"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "Which component is responsible for cooling the CPU?",
+        "options": [
+            {"id": 1, "text": "Heat Sink"},
+            {"id": 2, "text": "Power Supply Unit"},
+            {"id": 3, "text": "Graphics Card"},
+            {"id": 4, "text": "RAM"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "What is the purpose of a compiler in programming?",
+        "options": [
+            {"id": 1, "text": "To execute code"},
+            {"id": 2, "text": "To convert high-level code into machine code"},
+            {"id": 3, "text": "To store data"},
+            {"id": 4, "text": "To manage hardware"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "Which is the main circuit board in a computer?",
+        "options": [
+            {"id": 1, "text": "Hard Drive"},
+            {"id": 2, "text": "Motherboard"},
+            {"id": 3, "text": "Graphics Card"},
+            {"id": 4, "text": "RAM"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "Which of the following is not an input device?",
+        "options": [
+            {"id": 1, "text": "Mouse"},
+            {"id": 2, "text": "Printer"},
+            {"id": 3, "text": "Keyboard"},
+            {"id": 4, "text": "Scanner"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "What is the main use of an IP address?",
+        "options": [
+            {"id": 1, "text": "To identify a device on a network"},
+            {"id": 2, "text": "To provide storage"},
+            {"id": 3, "text": "To control access"},
+            {"id": 4, "text": "To execute code"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            {"id": 1, "text": "Hyper Text Markup Language"},
+            {"id": 2, "text": "Hyperlinks Text Mark Language"},
+            {"id": 3, "text": "Hyper Tool Markup Language"},
+            {"id": 4, "text": "Hyper Text Media Language"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "Which device allows you to enter information into a computer?",
+        "options": [
+            {"id": 1, "text": "Monitor"},
+            {"id": 2, "text": "Keyboard"},
+            {"id": 3, "text": "Printer"},
+            {"id": 4, "text": "Speaker"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "What does URL stand for?",
+        "options": [
+            {"id": 1, "text": "Uniform Resource Locator"},
+            {"id": 2, "text": "Universal Resource Locator"},
+            {"id": 3, "text": "Unified Resource Locator"},
+            {"id": 4, "text": "Unique Resource Locator"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "Which is the default port for HTTP?",
+        "options": [
+            {"id": 1, "text": "80"},
+            {"id": 2, "text": "21"},
+            {"id": 3, "text": "443"},
+            {"id": 4, "text": "25"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "Which is a popular version control system?",
+        "options": [
+            {"id": 1, "text": "Git"},
+            {"id": 2, "text": "Docker"},
+            {"id": 3, "text": "Nginx"},
+            {"id": 4, "text": "Apache"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "What does OS stand for?",
+        "options": [
+            {"id": 1, "text": "Operating System"},
+            {"id": 2, "text": "Optical Storage"},
+            {"id": 3, "text": "Output Source"},
+            {"id": 4, "text": "Open Software"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "Which is the fastest type of memory in a computer?",
+        "options": [
+            {"id": 1, "text": "HDD"},
+            {"id": 2, "text": "RAM"},
+            {"id": 3, "text": "Cache"},
+            {"id": 4, "text": "SSD"}
+        ],
+        "answer_id": 3
+    },
+    {
+        "question": "What is the purpose of a router in a network?",
+        "options": [
+            {"id": 1, "text": "To store data"},
+            {"id": 2, "text": "To connect multiple networks and direct data"},
+            {"id": 3, "text": "To protect data from viruses"},
+            {"id": 4, "text": "To power devices"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "Which device is used to measure the performance of a computer system?",
+        "options": [
+            {"id": 1, "text": "Monitor"},
+            {"id": 2, "text": "Benchmarking Tool"},
+            {"id": 3, "text": "Graphics Card"},
+            {"id": 4, "text": "Web Browser"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "Which of these is an example of open-source software?",
+        "options": [
+            {"id": 1, "text": "Microsoft Word"},
+            {"id": 2, "text": "Adobe Photoshop"},
+            {"id": 3, "text": "Linux"},
+            {"id": 4, "text": "Oracle Database"}
+        ],
+        "answer_id": 3
+    },
+    {
+        "question": "What is the primary purpose of an IP address?",
+        "options": [
+            {"id": 1, "text": "To identify a device on a network"},
+            {"id": 2, "text": "To store data permanently"},
+            {"id": 3, "text": "To increase processing speed"},
+            {"id": 4, "text": "To cool down the computer"}
+        ],
+        "answer_id": 1
+    },
+    {
+        "question": "Which language is primarily used for statistical analysis and data visualization?",
+        "options": [
+            {"id": 1, "text": "C++"},
+            {"id": 2, "text": "R"},
+            {"id": 3, "text": "JavaScript"},
+            {"id": 4, "text": "HTML"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "What is the role of a proxy server?",
+        "options": [
+            {"id": 1, "text": "To store website data"},
+            {"id": 2, "text": "To act as an intermediary between client and server"},
+            {"id": 3, "text": "To provide power to the computer"},
+            {"id": 4, "text": "To increase internet speed"}
+        ],
+        "answer_id": 2
+    },
+    {
+        "question": "Which of the following is a file compression format?",
+        "options": [
+            {"id": 1, "text": "MP3"},
+            {"id": 2, "text": "ZIP"},
+            {"id": 3, "text": "JPEG"},
+            {"id": 4, "text": "HTML"}
+        ],
+        "answer_id": 2
+    }
+]
